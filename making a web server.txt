@@ -1,0 +1,4 @@
+download all the files for the game from p5editor. Make a folder, extract all the files and select all the images and paste inside new created folder.
+ then use 200 ok! web server chrome entension to make a web server. Choose your folder in 200Ok1 and then you will find a web server url. and then click the link.
+
+-this link will run on ur local machine only, we can not share this link with others.
